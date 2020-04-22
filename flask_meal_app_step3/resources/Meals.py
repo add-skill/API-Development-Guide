@@ -1,5 +1,4 @@
 from flask_restful import Resource, request
-from flask import jsonify
 from flask_meal_app_step3.utils import Utils
 
 import uuid
